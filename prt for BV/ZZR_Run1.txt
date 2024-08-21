@@ -1,0 +1,60 @@
+onset	event
+0.0	fixation
+13.4931	Beach_Novelty
+24.0057	City_8 times
+33.657	City_Novelty
+44.2176	City_Novelty
+53.9745	Beach_Novelty
+61.3645	Beach_Repeat once
+71.3633	Beach_8 times
+81.9796	None
+89.8917	City_Novelty
+99.3835	Beach_Repeat once
+109.8956	City_Novelty
+117.3464	Beach_Repeat once
+128.0499	Beach_8 times
+136.7005	City_Repeat once
+144.1147	Beach_Repeat once
+153.2292	Beach_8 times
+161.2008	Beach_Novelty
+170.5677	City_Novelty
+179.6579	City_Novelty
+190.1341	City_Repeat once
+200.1419	City_8 times
+208.9771	City_8 times
+218.1517	City_8 times
+227.5864	None
+236.3505	None
+245.808	Beach_Novelty
+252.9302	Beach_Repeat once
+260.017	None
+267.5262	Beach_8 times
+278.0729	Beach_Novelty
+286.1446	Beach_Repeat once
+293.1938	City_Repeat once
+300.8896	City_Repeat once
+311.7199	Beach_Novelty
+318.7475	City_8 times
+326.7048	City_Repeat once
+335.7307	City_Repeat once
+345.6296	None
+355.3013	City_8 times
+365.8968	Beach_Repeat once
+375.4719	City_Repeat once
+384.5532	None
+394.1509	City_Novelty
+402.4561	None
+412.8709	City_Repeat once
+422.0462	City_8 times
+429.1138	Beach_8 times
+437.9181	Beach_8 times
+447.5707	Beach_Novelty
+457.9972	City_8 times
+465.4015	None
+473.317	Beach_Repeat once
+482.1587	Beach_Novelty
+490.5198	City_Novelty
+500.9148	Beach_8 times
+514.9061	Beach_8 times
+528.8407	target
+552.8404	border

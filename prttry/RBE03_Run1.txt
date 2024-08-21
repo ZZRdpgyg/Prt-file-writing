@@ -1,0 +1,75 @@
+onset	event
+0.0004	fixation
+6.1074	Beach_Novelty
+17.0875	City_Novelty
+30.0962	City_Novelty
+30.0989	task
+42.1028	City_8 times
+55.0978	City_8 times
+59.0075	task
+68.0773	Beach_8 times
+80.0029	task
+81.0915	City_8 times
+94.0915	Beach_8 times
+105.0798	Beach_Repeat once
+118.0897	Beach_8 times
+119.0006	task
+131.1013	City_Repeat once
+140.0006	task
+144.0933	Beach_8 times
+156.0916	Beach_Novelty
+168.0984	City_8 times
+174.0032	task
+179.0786	Beach_8 times
+191.1037	City_Novelty
+202.0942	City_8 times
+204.0031	task
+215.088	Beach_Novelty
+227.1237	City_Novelty
+238.0008	task
+239.091	City_8 times
+252.0975	City_Repeat once
+261.0006	task
+263.0924	City_Novelty
+274.0884	Beach_Repeat once
+285.0911	City_Novelty
+291.0032	task
+298.0838	Beach_Repeat once
+310.0924	Beach_Repeat once
+320.0032	task
+322.0855	Beach_Novelty
+333.087	Beach_Repeat once
+345.0924	Beach_Novelty
+355.0032	task
+358.0796	Beach_Repeat once
+370.0973	Beach_Novelty
+381.0914	City_8 times
+382.0006	task
+392.0848	Beach_Repeat once
+403.0814	Beach_8 times
+415.003	task
+416.0852	Beach_8 times
+427.0905	City_Novelty
+439.0977	City_Repeat once
+446.0007	task
+451.0897	City_Repeat once
+464.0911	Beach_Novelty
+473.0007	task
+477.0788	Beach_Repeat once
+489.0997	City_Repeat once
+500.0832	Beach_8 times
+507.0006	task
+512.0826	Beach_Novelty
+523.0887	City_Repeat once
+534.1039	City_8 times
+538.0029	task
+546.0885	City_Repeat once
+557.1115	City_Novelty
+566.0006	task
+569.0911	City_Repeat once
+582.0	target
+596.0025	task
+606.01	surround
+630.0136	task
+630.2792	border
+654.2792	end
